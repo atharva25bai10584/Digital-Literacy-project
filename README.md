@@ -8,7 +8,7 @@ Course: CSE0001 – Digital Literacy
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains my Digital Literacy Project completed as part of the CSE0001 course at VIT Bhopal.
 
 The project focuses on essential digital skills like:
@@ -22,30 +22,30 @@ The project focuses on essential digital skills like:
 
 ## 📂 Repository Structure
 
-### 📁 report/
+###  report/
 - Project_Report.pdf
 
-### 📁 task-1-presentation/
+###  task-1-presentation/
 - Infographic (Canva design/screenshot)
 
-### 📁 task-2-portfolio/
+###  task-2-portfolio/
 - GitHub, LinkedIn, and other profile screenshots
 
-### 📁 task-3-platforms/
+###  task-3-platforms/
 - HackerRank challenge screenshot
 - Google Form + response sheet screenshots
 
-### 📁 task-4-email-etiquette/
+###  task-4-email-etiquette/
 - Email drafts
 - Social media checklist
 
-### 📁 task-5-cybercrime/
+###  task-5-cybercrime/
 - Case study
 - Prevention checklist
 
 ---
 
-## 🧠 Module Summary
+##  Module Summary
 
 ### Task 1 – Infographic
 Created a visual explaining digital literacy, safe practices, and useful tools.
