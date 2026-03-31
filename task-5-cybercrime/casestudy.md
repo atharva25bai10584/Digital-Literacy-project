@@ -1,4 +1,4 @@
-#Cybercrime Case Study – Phishing Attack
+#  Cybercrime Case Study – Phishing Attack
 
 Phishing is one of the most common types of cybercrime, where attackers try to trick users into revealing sensitive information such as passwords, bank details, or OTPs. These attacks usually occur through fake emails, messages, or websites that appear to be from trusted sources.
 
