@@ -1,13 +1,18 @@
-#  Cybercrime Case Study – UPI / Online Payment Fraud
+# 🛡️ Cybercrime Case Study – UPI / QR Code Fraud (Real Incident)
 
-UPI (Unified Payments Interface) fraud is a rapidly increasing cybercrime in India, where attackers trick users into authorizing payments or revealing sensitive banking information.
+UPI-based QR code fraud is a common cybercrime in India where attackers trick users into making payments instead of receiving money. A real incident reported in Bengaluru shows how easily such scams can happen.
 
-A common real-life scenario involves students selling items online through platforms like OLX. In one such case, a college student posted an ad to sell a used laptop. Shortly after, they received a call from a person claiming to be a buyer. The “buyer” said they would make the payment via UPI and sent a QR code to scan.
+In this case, an 18-year-old student tried to sell her books online through OLX. Shortly after posting the advertisement, she was contacted by a person posing as a buyer. The scammer gained her trust by agreeing to the price and promising immediate payment. He then sent a QR code and told her to scan it to “receive” the payment.
 
-The student was told that scanning the QR code was required to receive money. Without realizing the risk, the student scanned the code and entered their UPI PIN. Instead of receiving money, an amount was deducted from their account. The scammer quickly disappeared after the transaction.
+Initially, the student scanned a small amount QR code, which appeared successful and made the process look genuine. The fraudster then sent another QR code for a larger amount. When she scanned it and entered her UPI PIN, money was deducted from her account instead of being credited. In total, she lost around ₹90,000 from her and her mother’s account.
 
-This type of fraud works because it creates confusion about how UPI transactions function. Many users do not know that scanning a QR code or approving a request can send money instead of receiving it.
+This incident shows that scammers often build trust first and then exploit confusion about how UPI works. Many users do not realize that scanning a QR code or entering a UPI PIN means sending money.
 
-Students are often targeted because they frequently use digital payments and may not verify such instructions carefully. The consequences include financial loss, stress, and loss of trust in online transactions.
+Students are especially vulnerable because they frequently use digital platforms but may lack awareness. The consequences include financial loss and stress.
 
-Awareness is the key to prevention. Users must understand that receiving money never requires entering a UPI PIN or scanning a code.
+This case highlights the importance of understanding digital payment systems and staying cautious during online transactions.
+
+---
+
+## 🔗 Source
+https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-student-trying-to-sell-books-online-suspects-scam-yet-loses-rs-90000-to-crook/articleshow/121981405.cms
