@@ -33,7 +33,7 @@ The project focuses on essential digital skills like:
 
 ###  task-3-platforms/
 - HackerRank challenge screenshot
-- Google Form + response sheet screenshots
+- (https://forms.gle/9FC7tsMt6SqcP1ky9)
 
 ###  task-4-email-etiquette/
 - Email drafts
