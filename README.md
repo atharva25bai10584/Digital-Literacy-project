@@ -26,7 +26,8 @@ The project focuses on essential digital skills like:
 - Project_Report.pdf
 
 ###  task-1-presentation/
-- Infographic (Canva design/screenshot)
+- <img width="1024" height="1536" alt="Digital Literacy Task-1" src="https://github.com/user-attachments/assets/344d8943-2c8b-4f52-8e9d-05c1481c746d" />
+
 
 ###  task-2-portfolio/
 - GitHub, LinkedIn, and other profile screenshots
@@ -34,6 +35,8 @@ The project focuses on essential digital skills like:
 ###  task-3-platforms/
 - HackerRank challenge screenshot
 - (https://forms.gle/9FC7tsMt6SqcP1ky9)
+- <img width="1185" height="978" alt="image" src="https://github.com/user-attachments/assets/50b9961e-4801-4479-974c-8adf1496de05" />
+
 
 ###  task-4-email-etiquette/
 - Email drafts
