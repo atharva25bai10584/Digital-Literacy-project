@@ -2,13 +2,13 @@
 
 ## 👤 Student Details
 Name: Atharva Kulkarni  
-Reg No: 25BAI10584 
-Branch: B.Tech CSE in AI ML  
+Reg No: 25BAI10584
+Branch: B.Tech CSE AIML Year-1
 Course: CSE0001 – Digital Literacy  
 
 ---
 
-##  Project Overview
+## 📌 Project Overview
 This repository contains my Digital Literacy Project completed as part of the CSE0001 course at VIT Bhopal.
 
 The project focuses on essential digital skills like:
@@ -22,33 +22,30 @@ The project focuses on essential digital skills like:
 
 ## 📂 Repository Structure
 
-###  report/
+### 📁 report/
 - Project_Report.pdf
 
-###  task-1-presentation/
-- <img width="1024" height="1536" alt="Digital Literacy Task-1" src="https://github.com/user-attachments/assets/344d8943-2c8b-4f52-8e9d-05c1481c746d" />
+### 📁 task-1-presentation/
+- Infographic (Canva design/screenshot)
 
-
-###  task-2-portfolio/
+### 📁 task-2-portfolio/
 - GitHub, LinkedIn, and other profile screenshots
 
-###  task-3-platforms/
+### 📁 task-3-platforms/
 - HackerRank challenge screenshot
-- (https://forms.gle/9FC7tsMt6SqcP1ky9)
-- <img width="1185" height="978" alt="image" src="https://github.com/user-attachments/assets/50b9961e-4801-4479-974c-8adf1496de05" />
+- Google Form + response sheet screenshots
 
-
-###  task-4-email-etiquette/
+### 📁 task-4-email-etiquette/
 - Email drafts
 - Social media checklist
 
-###  task-5-cybercrime/
+### 📁 task-5-cybercrime/
 - Case study
 - Prevention checklist
 
 ---
 
-##  Module Summary
+## 🧠 Module Summary
 
 ### Task 1 – Infographic
 Created a visual explaining digital literacy, safe practices, and useful tools.
@@ -67,8 +64,7 @@ Researched cybercrime and created a prevention checklist.
 
 ---
 
-## 🔗 Useful Links
-- Google Form: [Paste your link here]
+- Google Form: (https://forms.gle/T2J2BYEHuFbXiKs47)
 
 ---
 
